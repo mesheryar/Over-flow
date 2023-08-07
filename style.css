@@ -1,0 +1,22 @@
+.divone{
+	height: 300px;
+	width: 300px;
+	background-color: red;
+	margin: auto;
+	overflow: scroll;
+}
+.divtwo{
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	margin: auto;
+	overflow: hidden;
+}
+.divthree{
+	height: 300px;
+	width: 300px;
+	background-color: blue;
+	margin: auto;
+	overflow: auto;
+}
+
